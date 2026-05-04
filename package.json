@@ -1,0 +1,15 @@
+{
+  "name": "ts-mini-projects",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "list": "node scripts/project-cli.mjs list",
+    "run": "node scripts/project-cli.mjs run",
+    "check": "node scripts/project-cli.mjs check",
+    "check:all": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3"
+  }
+}
