@@ -1,0 +1,1 @@
+A bunch of TS mini-projects to teach me Typescript
